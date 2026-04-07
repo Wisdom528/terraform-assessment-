@@ -28,31 +28,31 @@ This project demonstrates how to provision a secure AWS infrastructure using Ter
 
 ### 1. Terraform Plan
 
-![Terraform Plan](screenshots/terraform-plan.png)
+![Terraform Plan](assets/image/terraform-plan..png)
 
 ---
 
 ### 2. Terraform Apply
 
-![Terraform Apply](screenshots/terraform-apply.png)
+![Terraform Apply](assets/image/terraform-apply.png)
 
 ---
 
 ### 3. EC2 Instances Running
 
-![EC2 Console](screenshots/ec2-console.png)
+![EC2 Console](assets/image/ec2-console.png)
 
 ---
 
 ### 4. SSH Access via Bastion Host
 
-![SSH Access](screenshots/ssh-access.png)
+![SSH Access](assets/image/ssh-access.png)
 
 ---
 
 ### 5. Install Nginx
 
-![Nginx Install](screenshots/nginx-install.png)
+![Nginx Install](assets/image/nginx-install.png)
 
 ---
 
@@ -60,19 +60,19 @@ This project demonstrates how to provision a secure AWS infrastructure using Ter
 
 Stopped Apache (httpd) to free port 80 for Nginx.
 
-![Fix Port 80](screenshots/fix-port80.png)
+![Fix Port 80](assets/image/fix-port80.png)
 
----
+
 
 ### 7. Nginx Running
 
-![Nginx Running](screenshots/nginx-running.png)
+![Nginx Running](assets/image/nginx-running.png)
 
 ---
 
 ### 8. Verification (Web Server Output)
 
-![Curl Output](screenshots/curl-output.png)
+![Curl Output](assets/image/curl-output.png)
 
 ---
 
